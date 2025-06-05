@@ -18,7 +18,7 @@
 | **uscita laterale** <br> (lezione 3) | [![Guarda il video](https://img.youtube.com/vi/96m_nP0p6Fo/hqdefault.jpg)](https://www.youtube.com/watch?v=96m_nP0p6Fo) |
 | **giro uomo (5 e 5)** | [![Guarda il video](https://img.youtube.com/vi/qbZChGTXbnk/hqdefault.jpg)](https://www.youtube.com/watch?v=qbZChGTXbnk) |
 | **touch uomo spazzola** <br> (da chiarire come fare controuscita donna) | [![Guarda il video](https://img.youtube.com/vi/QF74UQvFT40/hqdefault.jpg)](https://www.youtube.com/watch?v=QF74UQvFT40) |
-| **curvilinea rotazione** | [![Guarda il video](https://img.youtube.com/vi/STuvfC3LIWs/hqdefault.jpg)](https://www.youtube.com/watch?v=STuvfC3LIWs) |
+| **curilinea rotazione** | [![Guarda il video](https://img.youtube.com/vi/STuvfC3LIWs/hqdefault.jpg)](https://www.youtube.com/watch?v=STuvfC3LIWs) |
 | **seduta donna con casche** | [![Guarda il video](https://img.youtube.com/vi/d4gzadg6W8g/hqdefault.jpg)](https://www.youtube.com/watch?v=d4gzadg6W8g) |
 | **seduta con chiusura a L** | [![Guarda il video](https://img.youtube.com/vi/Jlzwy1tbaH0/hqdefault.jpg)](https://www.youtube.com/watch?v=Jlzwy1tbaH0) |
 | **gancio** <br> (non ha fatto uscita donna e chiusura) | [![Guarda il video](https://img.youtube.com/vi/zYH1utQlXXE/hqdefault.jpg)](https://www.youtube.com/watch?v=zYH1utQlXXE) |
