@@ -1,43 +1,24 @@
+# Figure di Ballo
 
-
-| <nobr><h1>Figura</h1></nobr>                                                        | <nobr><h1>Video</h1></nobr>                                                                                                                                                                                                                                                                            |
-| ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <nobr><b>base 1</b></nobr>                                                          | <nobr></nobr>                                                                                                                                                                                                                                                                                          |
-| <nobr><b>base 2</b></nobr>                                                          | <nobr></nobr>                                                                                                                                                                                                                                                                                          |
-| <nobr><b>base 3</b></nobr>                                                          | <nobr></nobr>                                                                                                                                                                                                                                                                                          |
-| <nobr><b>doppia base 1</b></nobr>                                                   | <nobr></nobr>                                                                                                                                                                                                                                                                                          |
-| <nobr><b>passata(3 passi)</b></nobr>                                                | <nobr></nobr>                                                                                                                                                                                                                                                                                          |
-| <nobr><b>curilinea(5 passi)</b></nobr>                                              | <nobr></nobr>                                                                                                                                                                                                                                                                                          |
-| <nobr><b>balanzo</b></nobr>                                                         | <nobr></nobr>                                                                                                                                                                                                                                                                                          |
-| <nobr><b>casamento (uscita uomo e dopo uscita donna)</b></nobr>                     | <nobr><iframe width="170" height="225" src="https://youtube.com/embed/-YfB4H9OZio?si=rmVH5ubMoOioVvU-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></nobr>       |
-| <nobr><b>uscita uomo</b></nobr>                                                     | <nobr></nobr>                                                                                                                                                                                                                                                                                          |
-| <nobr><b>uscita donna</b></nobr>                                                    | <nobr></nobr>                                                                                                                                                                                                                                                                                          |
-| <nobr><b>spazzola e casche v1(lezione 1)</b></nobr>                                 | <nobr><iframe width="170" height="225" src="https://youtube.com/embed/m786VCsI54s?si=AMgird5xQFulKhcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></nobr>       |
-| <nobr><b>spazzola e casche v2 semplice uscita L(lezione 3)</b></nobr>               | <nobr><iframe width="170" height="225" src="https://youtube.com/embed/l0CObuUapdc?si=fCEee66Ke8Yf5pjl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></nobr>       |
-| <nobr><b>doppia rotazione</b></nobr>                                                | <nobr><nobr><iframe width="170" height="225" src="https://youtube.com/embed/co85g1xY-b4?si=qypcw0ZusiIB0o91" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></nobr> |
-| <nobr><b>uscita laterale(lezione 3)</b></nobr>                                      | <nobr><nobr><iframe width="170" height="225" src="https://youtube.com/embed/96m_nP0p6Fo?si=5ftKzcqQX6PszPgi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></nobr> |
-| <nobr><b>giro uomo (5 e 5)</b></nobr>                                               | <nobr><iframe width="170" height="225" src="https://youtube.com/embed/qbZChGTXbnk?si=YhhSqDeR7t6fH2C0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></nobr>       |
-| <nobr><b>touch uomo spazzola</b><br>da chiarire come fare controuscita donna</nobr> | <nobr><iframe width="170" height="225" src="https://youtube.com/embed/QF74UQvFT40?si=Jg5d75lcPDroU2yk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></nobr>       |
-| <nobr><b>curilinea rotazione</b></nobr>                                             | <nobr><iframe width="170" height="225" src="https://youtube.com/embed/STuvfC3LIWs?si=RUEbKrkG6GoyzlSK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></nobr>       |
-| <nobr><b>seduta donna con casche</b></nobr>                                         | <nobr><iframe width="170" height="225" src="https://youtube.com/embed/d4gzadg6W8g?si=m5oNVsVUrvDVkJ2b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></nobr>       |
-| <nobr><b>seduta con chiusura a L</b></nobr>                                         | <nobr><iframe width="170" height="225" src="https://youtube.com/embed/Jlzwy1tbaH0?si=_fW7VYiX1m6I4yu-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></nobr>       |
-| <nobr><b>gancio</b> <br>(non ha fatto uscita donna<br>e chiusura)</nobr>            | <nobr><iframe width="170" height="225" src="https://youtube.com/embed/zYH1utQlXXE?si=yM0S5Vtr24blQNXQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></nobr>       |
-
-tovare figura che fai 3 e 5 passi
-
-
-
-
-https://youtube.com/shorts/co85g1xY-b4?si=qypcw0ZusiIB0o91
-
-
-
-
-
-
-
-
-
-
-
-
+| Figura | Video |
+| :--- | :--- |
+| **base 1** | *Video non disponibile* |
+| **base 2** | *Video non disponibile* |
+| **base 3** | *Video non disponibile* |
+| **doppia base 1** | *Video non disponibile* |
+| **passata (3 passi)** | *Video non disponibile* |
+| **curvilinea (5 passi)** | *Video non disponibile* |
+| **balanzo** | *Video non disponibile* |
+| **casamento** <br> (uscita uomo e dopo uscita donna) | [![Guarda il video](https://img.youtube.com/vi/-YfB4H9OZio/hqdefault.jpg)](https://www.youtube.com/watch?v=-YfB4H9OZio) |
+| **uscita uomo** | *Video non disponibile* |
+| **uscita donna** | *Video non disponibile* |
+| **spazzola e casche v1** <br> (lezione 1) | [![Guarda il video](https://img.youtube.com/vi/m786VCsI54s/hqdefault.jpg)](https://www.youtube.com/watch?v=m786VCsI54s) |
+| **spazzola e casche v2** <br> (semplice uscita L, lezione 3) | [![Guarda il video](https://img.youtube.com/vi/l0CObuUapdc/hqdefault.jpg)](https://www.youtube.com/watch?v=l0CObuUapdc) |
+| **doppia rotazione** | [![Guarda il video](https://img.youtube.com/vi/co85g1xY-b4/hqdefault.jpg)](https://www.youtube.com/watch?v=co85g1xY-b4) |
+| **uscita laterale** <br> (lezione 3) | [![Guarda il video](https://img.youtube.com/vi/96m_nP0p6Fo/hqdefault.jpg)](https://www.youtube.com/watch?v=96m_nP0p6Fo) |
+| **giro uomo (5 e 5)** | [![Guarda il video](https://img.youtube.com/vi/qbZChGTXbnk/hqdefault.jpg)](https://www.youtube.com/watch?v=qbZChGTXbnk) |
+| **touch uomo spazzola** <br> (da chiarire come fare controuscita donna) | [![Guarda il video](https://img.youtube.com/vi/QF74UQvFT40/hqdefault.jpg)](https://www.youtube.com/watch?v=QF74UQvFT40) |
+| **curvilinea rotazione** | [![Guarda il video](https://img.youtube.com/vi/STuvfC3LIWs/hqdefault.jpg)](https://www.youtube.com/watch?v=STuvfC3LIWs) |
+| **seduta donna con casche** | [![Guarda il video](https://img.youtube.com/vi/d4gzadg6W8g/hqdefault.jpg)](https://www.youtube.com/watch?v=d4gzadg6W8g) |
+| **seduta con chiusura a L** | [![Guarda il video](https://img.youtube.com/vi/Jlzwy1tbaH0/hqdefault.jpg)](https://www.youtube.com/watch?v=Jlzwy1tbaH0) |
+| **gancio** <br> (non ha fatto uscita donna e chiusura) | [![Guarda il video](https://img.youtube.com/vi/zYH1utQlXXE/hqdefault.jpg)](https://www.youtube.com/watch?v=zYH1utQlXXE) |
